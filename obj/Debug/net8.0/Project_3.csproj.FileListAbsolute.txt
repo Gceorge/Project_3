@@ -1,0 +1,14 @@
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.AssemblyInfoInputs.cache
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.AssemblyInfo.cs
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\bin\Debug\net8.0\Project_3.exe
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\bin\Debug\net8.0\Project_3.deps.json
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\bin\Debug\net8.0\Project_3.runtimeconfig.json
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\bin\Debug\net8.0\Project_3.dll
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\bin\Debug\net8.0\Project_3.pdb
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.dll
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\refint\Project_3.dll
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.pdb
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\Project_3.genruntimeconfig.cache
+C:\Users\Laptop\OneDrive - Sheffield Hallam University\University\Year 2\Algorithms and Data Structures\Assignment 07.01.2025\Project_3\Project_3\obj\Debug\net8.0\ref\Project_3.dll
